@@ -1,1 +1,1 @@
-# devops-lab
+print("Hello world")
